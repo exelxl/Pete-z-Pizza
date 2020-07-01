@@ -1,0 +1,21 @@
+﻿  entities.c
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(118,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(121,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(130,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(141,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(149,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(152,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(161,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(172,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(188,35): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(188,41): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(188,63): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(188,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(240,41): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\src\entities.c(240,64): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  LINK : 0 new modules and 1 (out of 55) modules have changed since prior linking
+  Starting pass 2
+       entities.obj
+       MSVCRTD.lib(loadcfg.obj)
+  Finished pass 2
+  SpringProject.vcxproj -> C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\x64\Debug\SpringProject.exe

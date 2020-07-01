@@ -1,0 +1,4 @@
+C:\Users\Tanu\Desktop\SpringProjectx\x64\Debug\SpringProject.exe
+C:\Users\Tanu\Desktop\SpringProjectx\x64\Debug\SpringProject.pdb
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\x64\Debug\SpringProject.exe
+C:\Users\Tanu\Desktop\Folders\coding_stuff\C++\spring-project\x64\Debug\SpringProject.pdb
